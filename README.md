@@ -1,4 +1,4 @@
-## Common Terminologies
+## Common SQL Terminologies
 SQL (Structured Query Language) involves several key terminologies that are fundamental to understanding how to interact with databases. Here are some common terminologies used in SQL:
 
 1. **Database**: A structured collection of data organized in a way that allows for efficient retrieval, storage, and manipulation. Examples include MySQL, PostgreSQL, SQL Server, Oracle Database, etc.
@@ -7,9 +7,9 @@ SQL (Structured Query Language) involves several key terminologies that are fund
 
 3. **Query**: A SQL statement used to retrieve, insert, update, or delete data from a database. Examples include `SELECT`, `INSERT`, `UPDATE`, `DELETE`.
 
-4. **Schema**: A logical structure that defines the organization of data in a database. It includes the structure of tables, their columns, data types, constraints, relationships, etc.
+4. **Schema**: A logical structure that defines data organization in a database. It includes the structure of tables, their columns, data types, constraints, relationships, etc.
 
-5. **Primary Key**: A column or a set of columns that uniquely identifies each row in a table. It ensures that each row in a table can be uniquely identified and is often used as a reference point in relationships between tables.
+5. **Primary Key**: A column or a set of columns uniquely identifying each row in a table. It ensures that each row in a table can be uniquely identified and is often used as a reference point in relationships between tables.
 
 6. **Foreign Key**: A column or a set of columns in one table that refers to the primary key in another table. It establishes a link between two tables, enforcing referential integrity and defining relationships.
 
